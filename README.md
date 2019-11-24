@@ -5,11 +5,11 @@ Alberta Collegiate Programming Contest (ACPC) hosted by the Competitive Programm
 
 Problems A-H were done in python with results:
 
-A: Time limit exceeded
-B: Incorrect Output
-C: Incomplete
-D: Completed
-E: Incomplete
-F: Completed
-G: Incomplete
-H: Incomplete
+A: Time limit exceeded /n
+B: Incorrect Output /n
+C: Incomplete /n
+D: Completed /n
+E: Incomplete /n 
+F: Completed /n
+G: Incomplete /n
+H: Incomplete /n
